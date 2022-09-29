@@ -41,8 +41,9 @@ For example, here is sme simple HTML code:
             <title>Some HTML Code</title>
         </head>
         
-        
+  A good markdown guide can be found at [Markdown Guide](https://markdownguide.org) website.     
  
- A good markdown link can be found at [Markdown Guide](https://markdownguide.org) website.
+ A good markdown guide can be found at [Markdown Guide](https://markdownguide.org " A good website for markdown reference") website. 
+ 
  
  
