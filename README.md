@@ -49,5 +49,7 @@ For example, here is sme simple HTML code:
  
  Here is an italic link to *[Google](https://google.com)*.
  
+ Here is a code link to some [`html tag references`](https://w3schools.com/tags/).
+ 
  
  
