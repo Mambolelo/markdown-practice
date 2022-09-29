@@ -59,4 +59,4 @@ For example, here is sme simple HTML code:
  
  Here is a picture of me:
  
- ![KudaPezzy](pezzypicture.jpeg "PezzyME")](https://www.facebook.com/pages/category/Lounge/Pastor-Pezzy-116249286427702/)
+ [![KudaPezzy](pezzypicture.jpeg "PezzyME")](https://www.facebook.com/pages/category/Lounge/Pastor-Pezzy-116249286427702/)
