@@ -51,7 +51,7 @@ For example, here is sme simple HTML code:
  
  Here is a code link to some [`html tag references`](https://w3schools.com/tags/).
  
- Here is a [link][1] about websites and a [link] [2] about markdown.
+ Here is a [link][1] about websites and a [link][2] about markdown.
  
  [1]: <https://en.wikipedia.org/wiki/website> "Website on wikipedia"
  [2]: <https://en.wikipedia.org/wiki/Markdown> "Markdown on Wikipedia"
