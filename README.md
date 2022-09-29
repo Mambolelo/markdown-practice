@@ -43,7 +43,9 @@ For example, here is sme simple HTML code:
         
   A good markdown guide can be found at [Markdown Guide](https://markdownguide.org) website.     
  
- A good markdown guide can be found at [Markdown Guide](https://markdownguide.org " A good website for markdown reference") website. 
+ A good markdown guide can be found at [Markdown Guide](https://markdownguide.org " A good website for markdown reference") website.
+ 
+ Here is a bold link to **[Github](https://github.com)**.
  
  
  
