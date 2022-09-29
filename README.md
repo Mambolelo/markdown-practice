@@ -57,4 +57,7 @@ For example, here is sme simple HTML code:
  [2]: <https://en.wikipedia.org/wiki/Markdown> "Markdown on Wikipedia"
  
  
+ Here is a picture of me:
  
+ ![KudaPezzy]([
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FLounge%2FPastor-Pezzy-116249286427702%2F&psig=AOvVaw1ExqmItqJStIWElEgS48oH&ust=1664505575449000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIjtxNL8uPoCFQAAAAAdAAAAABAD) "PezzyME")
