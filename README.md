@@ -47,5 +47,7 @@ For example, here is sme simple HTML code:
  
  Here is a bold link to **[Github](https://github.com)**.
  
+ Here is an italic link to *[Google](https://google.com)*.
+ 
  
  
