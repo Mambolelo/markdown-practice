@@ -33,7 +33,7 @@ This sentence has the following \`word\` which uses backticks but it is not code
 For example, here is sme simple HTML code:
 
     <html>
-    <head>
-        <title>Some HTML Code</title>
-    </head>
+        <head>
+            <title>Some HTML Code</title>
+        </head>
     
