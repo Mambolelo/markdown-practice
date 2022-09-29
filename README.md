@@ -27,4 +27,5 @@ Man united is the best soccer team in the world no matter what people say. They 
 > Also with some *fancy* text and **bold text**
 
 Here is a piece of code: `print("Hello World")` it prints "Hello World"
-``This sentence has the following `word` whihc uses backticks but it is not code.``
+
+This sentence has the following \`word\` which uses backticks but it is not code.
