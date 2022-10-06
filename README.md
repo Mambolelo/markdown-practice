@@ -118,3 +118,15 @@ For example, here is sme simple HTML code:
 - An
 - Example
 
+Indent in list with 8 spaces or 2 tabs, using 4 spaces or tab to indent for readability
+
+1. First element
+2. Second element
+
+    <html>
+        <head>
+            <title>Some HTML Code</title>
+    </head>
+    
+3. Third element
+
