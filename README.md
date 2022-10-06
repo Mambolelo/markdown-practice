@@ -130,3 +130,8 @@ Indent in list with 8 spaces or 2 tabs, using 4 spaces or tab to indent for read
     
 3. Third element
 
+
+1. First element
+2. Second element
+            ![my guitar](
+
