@@ -123,10 +123,10 @@ Indent in list with 8 spaces or 2 tabs, using 4 spaces or tab to indent for read
 1. First element
 2. Second element
 
-    <html>
-        <head>
-            <title>Some HTML Code</title>
-        </head>
+        <html>
+            <head>
+                <title>Some HTML Code</title>
+            </head>
     
 3. Third element
 
