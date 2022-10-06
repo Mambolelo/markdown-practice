@@ -88,3 +88,18 @@ For example, here is sme simple HTML code:
     - Second indented item
 - 5\. Ninth item
 - Tenth item
+
+- Seventh item
+- Eighth item
+    1. First indented item
+    2. Second indented item
+- Ninth item
+- Tenth item
+
+1. Seventh item
+2. Eighth item
+    - First indented item
+    - Second indented item
+3. 5\. Ninth item
+4. Tenth item
+
