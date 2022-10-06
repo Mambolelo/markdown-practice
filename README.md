@@ -112,8 +112,7 @@ For example, here is sme simple HTML code:
 - Unordered
 - List
 
-
-        > Here is a blockquote, make sure to use the newlines, indents, and special character
+    > Here is a blockquote, make sure to use the newlines, indents, and special character
 
 - As
 - An
