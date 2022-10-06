@@ -134,7 +134,7 @@ Indent in list with 8 spaces or 2 tabs, using 4 spaces or tab to indent for read
 1. First element
 2. Second element
 
-            ![my guitar](My%20Guitar.jpg)
+    ![my guitar](My%20Guitar.jpg)
             
 3. Third element
 4. Fouth element
