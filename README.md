@@ -103,3 +103,19 @@ For example, here is sme simple HTML code:
 3. 5\. Ninth item
 4. Tenth item
 
+- Here
+- Is
+
+        Here is a paragraph, make sure to use newlines and indents!
+
+- An 
+- Unordered
+- List
+
+
+        > Here is a blockquote, make sure to use the newlines, indents, and special character
+
+- As
+- An
+- Example
+
