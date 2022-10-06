@@ -126,7 +126,7 @@ Indent in list with 8 spaces or 2 tabs, using 4 spaces or tab to indent for read
     <html>
         <head>
             <title>Some HTML Code</title>
-    </head>
+        </head>
     
 3. Third element
 
