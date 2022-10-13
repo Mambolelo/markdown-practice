@@ -1,0 +1,7 @@
+# build site settings
+remote_theme: pages-themes/merlot@v0.2.0plugins:
+- jekyll-remote-theme
+gem "github-pages", group:jekyll_plugins
+title: UPLIFT TABERNACLE
+description: PLACE FOR ENCOURAGEMENT
+show_downloads: true 
